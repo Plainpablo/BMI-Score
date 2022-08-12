@@ -11,15 +11,15 @@ Python BMI Calculator calculates BMI and BMI Category.
 1. None
 
 # Installation:
->> pip install BMI_Scale
+>> pip install bmi_score
 
 # Usage :
 
->> from BMI_Scale import bmi
+>> from bmi_score import bmi
 >> 
 >> a = bmi(height, weight)    # Calculates BMI score
 >> 
->> from BMI_Scale import bmi_information
+>> from bmi_score import bmi_information
 >> 
 >> b = bmi_information(a)      # Returns BMI information based on final BMI score eg. You're in the healthy weight range
 
