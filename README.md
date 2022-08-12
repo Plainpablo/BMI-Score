@@ -24,4 +24,4 @@ Python BMI Calculator calculates BMI and BMI Category.
 >> b = bmi_information(a)      # Returns BMI information based on final BMI score eg. You're in the healthy weight range
 
 # PyPi Package :
-The package has been build and uploaded at https://github.com/manishgupta-ind/code-20220528-manishgupta
+The package has been build and uploaded at https://github.com/Plainpablo/BMI-Score
